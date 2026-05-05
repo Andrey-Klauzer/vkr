@@ -24,8 +24,9 @@
 * **Исследовательский ноутбук:** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/Research.ipynb](https://github.com/Andrey-Klauzer/vkr/blob/main/files/Research.ipynb)
 * **Программная реализация:** [https://github.com/Andrey-Klauzer/vkr/tree/main/program](https://github.com/Andrey-Klauzer/vkr/tree/main/program)
 * **Тестирование API (endpoints):** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/api_test.ipynb](https://github.com/Andrey-Klauzer/vkr/blob/main/files/api_test.ipynb)
-* **Дашборд:** [ссылка будет добавлена]
-* **API домен:** [ссылка будет добавлена]
+* **Airflow (admin/admin):** [http://72.56.238.130:8080/] 
+* **Дашборд:** [http://72.56.238.130:8501/]
+* **API домен:** [http://72.56.238.130:8000]
 
 ---
 
@@ -93,7 +94,7 @@
 [https://github.com/Andrey-Klauzer/vkr/blob/main/files/api_test.ipynb](https://github.com/Andrey-Klauzer/vkr/blob/main/files/api_test.ipynb)
 
 API:
-[ссылка будет добавлена]
+[http://72.56.238.130:8000]
 
 ---
 
@@ -106,4 +107,4 @@ API:
 * Формирование итоговых выводов
 
 Дашборд:
-[ссылка будет добавлена]
+[http://72.56.238.130:8501/]

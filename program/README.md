@@ -1,4 +1,4 @@
-# FX Volatility Monitor
+# Мониторинг волатильности FX (валютного рынка)
 
 Конвейер данных по мониторингу 10 валютных пар: ежедневная загрузка котировок
 из Yahoo Finance, прогноз волатильности продвинутой моделью **GJR-GARCH(1,1)
@@ -50,8 +50,8 @@
 ### 1. Подготовка
 
 ```bash
-git clone <this-repo> fx-monitor
-cd fx-monitor
+git clone <this-repo> 
+cd vkr
 cp .env_example .env
 # (опционально) поправьте .env — в первую очередь DATA_START_DATE
 ```
@@ -71,7 +71,7 @@ docker compose up -d --build
 
 ### 3. Загрузить исторические данные и обучить модель
 
-Откройте Airflow UI: **http://localhost:8080**
+Откройте Airflow UI: **http://localhost:8080** - для локального запуска
 (логин/пароль из `.env`, по умолчанию `admin / admin`).
 
 Включите DAG `fx_pipeline` и запустите его вручную (Trigger DAG).
