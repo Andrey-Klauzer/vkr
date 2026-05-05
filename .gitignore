@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# Env files
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Airflow
+airflow/logs/
+airflow/tmp/
+airflow/*.pid
+
+# Docker
+*.pid
+*.seed
+*.sock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# coverage
+htmlcov/
+.coverage
+
+# build/dist
+build/
+dist/
+*.egg-info/
+
+# local data
+data/
+*.parquet

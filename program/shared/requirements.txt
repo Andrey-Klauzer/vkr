@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+arch==7.0.0
+yfinance==0.2.51
+SQLAlchemy==2.0.32
+psycopg2-binary==2.9.9

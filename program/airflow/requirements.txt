@@ -1,0 +1,6 @@
+# Версии не пиним — их зафиксирует constraints-файл Airflow 2.10.2,
+# чтобы не сломать встроенные SQLAlchemy 1.4.x / pandas 2.1.x и т.п.
+# SQLAlchemy и psycopg2 не ставим — уже в базовом образе Airflow.
+scikit-learn
+arch
+yfinance
