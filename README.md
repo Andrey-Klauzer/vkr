@@ -20,7 +20,9 @@
 
 * **Репозиторий:** [https://github.com/Andrey-Klauzer/vkr](https://github.com/Andrey-Klauzer/vkr)
 * **Полный текст ВКР:** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/VKR.pdf](https://github.com/Andrey-Klauzer/vkr/blob/main/files/VKR.pdf)
+* **Презентация ВКР:** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/vkr_presentation.pptx](https://github.com/Andrey-Klauzer/vkr/blob/main/files/vkr_presentation.pptx)
 * **Отчет об антиплагиате с предзащиты ВКР:** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/pre_defence_report.pdf](https://github.com/Andrey-Klauzer/vkr/blob/main/files/pre_defence_report.pdf)
+* **Отчет об антиплагиате с защиты ВКР:** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/defence_report.pdf](https://github.com/Andrey-Klauzer/vkr/blob/main/files/defence_report.pdf
 * **Исследовательский ноутбук:** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/Research.ipynb](https://github.com/Andrey-Klauzer/vkr/blob/main/files/Research.ipynb)
 * **Программная реализация:** [https://github.com/Andrey-Klauzer/vkr/tree/main/program](https://github.com/Andrey-Klauzer/vkr/tree/main/program)
 * **Тестирование API (endpoints):** [https://github.com/Andrey-Klauzer/vkr/blob/main/files/api_test.ipynb](https://github.com/Andrey-Klauzer/vkr/blob/main/files/api_test.ipynb)
